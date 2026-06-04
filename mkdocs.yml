@@ -5,11 +5,4 @@ theme:
 
 plugins:
   - search
-
-nav:
-  - Home: docs/index.md
-
-  - English Songs:
-      - O The Spirit Filled Life: english/O-The-Spirit-Filled-Life.md
-      - He Walked Where I Walked | God With Us: docs/english/He-Walked-Where-I-Walked.md
-      - Love Divine, All Loves Excelling: docs/english/Love-Divine-All-Loves-Excelling.md
+  - awesome-pages
