@@ -1,5 +1,16 @@
 **_Song:_** *O The Spirit Filled Life*
 
+
+## Watch & Listen
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/ib3j6X15gUM"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 **Copyright Information:** Christmas Evans, Public Domain. This recording was made at Christian Fellowship Church, Bangalore, India.
 
 **Lyrics:**  
