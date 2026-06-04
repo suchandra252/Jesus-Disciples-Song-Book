@@ -8,4 +8,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - O The Spirit Filled Life: english/O-The-Spirit-Filled-Life.md 
+
+  - English Songs:
+      - O The Spirit Filled Life: english/O-The-Spirit-Filled-Life.md
+
+  - Telugu Songs:
