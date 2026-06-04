@@ -7,10 +7,8 @@ Welcome to the online songbook.
 ### English Songs
 
 - [O The Spirit Filled Life](english/O-The-Spirit-Filled-Life.md)
+- [He Walked Where I Walked | God With Us] (english/He-Walked-Where-I-Walked.md)
 
-### Telugu Songs
-
-Songs will be added here.
 
 ---
 
