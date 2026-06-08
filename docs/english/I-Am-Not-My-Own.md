@@ -112,4 +112,3 @@ It is especially meaningful for personal devotion, teaching on identity in Chris
 ---
 
 **Copyright Information:** Keith & Kristyn Getty and Skye Peterson.  
-This recording was made at Christian Fellowship Church, Bangalore, India.
