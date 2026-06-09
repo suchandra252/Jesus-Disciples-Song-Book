@@ -99,39 +99,11 @@
 ## Song Meaning
 
 | Stanza | Meaning |
-| --- | --- |
-| **Verse 1**<br>
-
-<br>I do not know how long I'll live,<br>
-
-<br>But while I live, Lord, let me give,<br>
-
-<br>Some comfort to someone in need,<br>
-
-<br>By smile or nod, kind word or deed. | The song begins with humble acknowledgment of life’s uncertainty — we don’t know how many days we have left. Instead of worrying about the length of life, the singer prays for a meaningful life: to bring comfort to others through simple, everyday acts of kindness like a smile, nod, encouraging word, or helpful deed. |
-| **Chorus**<br>
-
-<br>I only want to love like Thee,<br>
-
-<br>Lord help me live on earth like Thee | This is the heartfelt prayer at the centre of the song. The singer’s deepest desire is to love and live exactly like Jesus — reflecting His compassion, humility, and self-giving love in daily life. |
-| **Verse 2**<br>
-
-<br>Lord, help me do whate'er I can,<br>
-
-<br>To ease things for my fellow man,<br>
-
-<br>I only want to do my part,<br>
-
-<br>To lift a tired and weary heart. | This stanza expresses a willing spirit to help in any possible way — to lighten the burdens of others and bring encouragement to those who are tired or discouraged. It is a prayer for usefulness and practical love toward fellow human beings. |
-| **Verse 3**<br>
-
-<br>If I can make folks love again,<br>
-
-<br>Then I will not have lived in vain,<br>
-
-<br>And I'll not care how long I live,<br>
-
-<br>If I can love and give and give. | The closing stanza gives the ultimate perspective on life. If the singer can help restore love in people’s hearts, then his life will have true meaning and purpose. Length of life becomes unimportant; what matters is the ability to keep loving and giving like Christ until the end. |
+|--------|---------|
+| **Verse 1**<br>I do not know how long I'll live,<br>But while I live, Lord, let me give,<br>Some comfort to someone in need,<br>By smile or nod, kind word or deed. | The song begins with humble acknowledgment of life’s uncertainty — we don’t know how many days we have left. Instead of worrying about the length of life, the singer prays for a meaningful life: to bring comfort to others through simple, everyday acts of kindness like a smile, nod, encouraging word, or helpful deed. |
+| **Chorus**<br>I only want to love like Thee,<br>Lord help me live on earth like Thee | This is the heartfelt prayer at the centre of the song. The singer’s deepest desire is to love and live exactly like Jesus — reflecting His compassion, humility, and self-giving love in daily life. |
+| **Verse 2**<br>Lord, help me do whate'er I can,<br>To ease things for my fellow man,<br>I only want to do my part,<br>To lift a tired and weary heart. | This stanza expresses a willing spirit to help in any possible way — to lighten the burdens of others and bring encouragement to those who are tired or discouraged. It is a prayer for usefulness and practical love toward fellow human beings. |
+| **Verse 3**<br>If I can make folks love again,<br>Then I will not have lived in vain,<br>And I'll not care how long I live,<br>If I can love and give and give. | The closing stanza gives the ultimate perspective on life. If the singer can help restore love in people’s hearts, then his life will have true meaning and purpose. Length of life becomes unimportant; what matters is the ability to keep loving and giving like Christ until the end. |
 
 ---
 
