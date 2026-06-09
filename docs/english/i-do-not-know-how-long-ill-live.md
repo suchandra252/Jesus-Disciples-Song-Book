@@ -10,89 +10,34 @@
 
 ---
 
-## 📝 Lyrics with Chords & Melody
-
-> **Key:** D Major (Play all F as F# and all C as C#)  
-> **Time Signature:** 4/4
+## 📝 Lyrics
 
 ### Verse 1
-```text
-[Chords]  D                       G       D
-[Lyrics]  I do not know how long  I'll    live,
-[Melody]  F# F#  F#  F#   A   F#   G       F#
 
-[Chords]            G              D         A       D
-[Lyrics]  But while I live, Lord,  let  me   gi  -   ve
-[Melody]  D   E     F# F#   A      F#   E    F#  E   D
-
-[Chords]         Bm                 Em      A
-[Lyrics]  Some   comfort to some -  one in  need,
-[Melody]  D      D   B   B  D       B   A   A
-
-[Chords]       D               G          A       D
-[Lyrics]  By   smile or nod,   kind word  or      deed.
-[Melody]  F#   F#    F# A      G    F#    E       D
-
-```
+> I do not know how long I'll live,  
+> But while I live, Lord, let me give,  
+> Some comfort to someone in need,  
+> By smile or nod, kind word or deed.
 
 ### Chorus
 
-```text
-[Chords]  D             G                    A        D
-[Lyrics]  I on - ly     want to love like    Thee,
-[Melody]  A B    A      F#   A  G    F#      E
-
-[Chords]  D             G                    A        D
-[Lyrics]  Lord help me  live on earth like   Thee;
-[Melody]  F#   G    A   B    A  G     F#     D
-
-[Chords]  D             G                    A        D
-[Lyrics]  Lord help me  live on earth like   Thee.
-[Melody]  F#   G    A   B    A  G     E      D
-
-```
+> I only want to love like Thee,  
+> Lord help me live on earth like Thee.  
+> *(Repeat)*
 
 ### Verse 2
 
-```text
-[Chords]  D                        G         D
-[Lyrics]  Lord, help me do whate'er    I     can,
-[Melody]  F#    F#   F# F# A   F#      G     F#
-
-[Chords]            G              D            A       D
-[Lyrics]  To        ease things for my fel -    low     man,
-[Melody]  D         E    F#   F#  A  F#  E      F#  E   D
-
-[Chords]         Bm                 Em      A
-[Lyrics]  I      on - ly  want to   do  my  part,
-[Melody]  D      D    B   B    D    B   A   A
-
-[Chords]       D               G          A       D
-[Lyrics]  To   lift  a tired   and wea -  ry      heart.
-[Melody]  F#   F#    F# A      G   F#     E       D
-
-```
+> Lord, help me do whate'er I can,  
+> To ease things for my fellow man,  
+> I only want to do my part,  
+> To lift a tired and weary heart.
 
 ### Verse 3
 
-```text
-[Chords]  D                       G       D
-[Lyrics]  If I can make folks     love    a - gain,
-[Melody]  F# F# F# F#   A  F#     G       F#  F#
-
-[Chords]            G              D            A       D
-[Lyrics]  Then      I will not    have lived in va  -   in,
-[Melody]  D         E F#   F#     A    F#    E  F#  E   D
-
-[Chords]         Bm                 Em          A
-[Lyrics]  And    I'll not care how  long   I    live,
-[Melody]  D      D    B   B    D    B      A    A
-
-[Chords]       D               G          A             D
-[Lyrics]  If   I can love and  give and   give   and    give.
-[Melody]  F#   F# F# A    G    F#   E     D      E      D
-
-```
+> If I can make folks love again,  
+> Then I will not have lived in vain,  
+> And I'll not care how long I live,  
+> If I can love and give and give.
 
 ---
 
