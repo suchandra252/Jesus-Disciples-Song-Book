@@ -1,8 +1,3 @@
-**Understood!** Reverting back to the clean format without chords and melody.
-
-Here is the song in the previous style you liked:
-
-```markdown
 # 🎵 Oh, Worship the Lord in the Beauty of Holiness
 
 ## 🎧 Listen to the Song
@@ -60,7 +55,6 @@ Here is the song in the previous style you liked:
 
 ## Summary of Song
 
-This classic hymn by John S. B. Monsell beautifully calls believers to worship God in the beauty of holiness — with humble, obedient, and sincere hearts. It encourages us to bring our burdens, fears, and simple offerings to the Lord, trusting that He accepts them because of Christ. The song promises that God turns our sorrow into joy and our fear into confident hope. With its rich poetry and tender invitation, it is perfect for worship services, personal devotion, or any time we want to draw near to God with reverence and love.
-```
+This classic hymn by John S. B. Monsell beautifully calls believers to worship God in the beauty of holiness — with humble, obedient, and sincere hearts. It encourages us to bring our burdens, fears, and simple offerings to the Lord, trusting that He accepts them because of Christ. The song promises that God turns our sorrow into joy and our fear into confident hope. With its rich poetry and tender invitation, it is perfect for worship services, personal devotion, or any time we want to draw near to God with reverence and love.```
 
 You can copy the entire block above and save it as a `.md` file. Let me know if you want any changes or the next song!
