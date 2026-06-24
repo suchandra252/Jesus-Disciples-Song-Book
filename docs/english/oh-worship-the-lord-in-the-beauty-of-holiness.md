@@ -1,3 +1,8 @@
+**Understood!** Reverting back to the clean format without chords and melody.
+
+Here is the song in the previous style you liked:
+
+```markdown
 # 🎵 Oh, Worship the Lord in the Beauty of Holiness
 
 ## 🎧 Listen to the Song
@@ -10,33 +15,35 @@
 
 ---
 
-## 📝 Lyrics with Chords (Simple Piano/Guitar)
-
-**Key: D Major** (Easy to play)
+## 📝 Lyrics
 
 ### Verse 1
-**D** Oh, worship the **A** Lord in the **D** beauty of **G** holiness;  
-**D** Bow down before **A** Him, His **D** glory pro**A**claim;  
-**D** With gold of obe**A**dience, and **G** incense of **D** lowliness,  
-**G** Kneel and a**D**dore Him; the **A** Lord is His **D** name!
+
+> Oh, worship the Lord in the beauty of holiness;  
+> Bow down before Him, His glory proclaim;  
+> With gold of obedience, and incense of lowliness,  
+> Kneel and adore Him; the Lord is His name!
 
 ### Verse 2
-**D** Low at His **A** feet lay thy **D** burden of **G** carefulness,  
-**D** High on His **A** heart He will **D** lay it for **A** thee;  
-**D** Comfort thy **A** sorrows, and **G** answer thy **D** prayerfulness,  
-**G** Guiding thy **D** steps as may **A** best for thee **D** be.
+
+> Low at His feet lay thy burden of carefulness,  
+> High on His heart He will lay it for thee;  
+> Comfort thy sorrows, and answer thy prayerfulness,  
+> Guiding thy steps as may best for thee be.
 
 ### Verse 3
-**D** Fear not to **A** enter His **D** courts in the **G** slenderness  
-**D** Of the poor **A** wealth thou wouldst **D** reckon as **A** thine;  
-**D** Truth in its **A** beauty, and **G** love in its **D** tenderness,  
-**G** These are the **D** offerings to **A** lay on His **D** shrine.
+
+> Fear not to enter His courts in the slenderness  
+> Of the poor wealth thou wouldst reckon as thine;  
+> Truth in its beauty, and love in its tenderness,  
+> These are the offerings to lay on His shrine.
 
 ### Verse 4
-**D** These, though we **A** bring them in **D** trembling and **G** fearfulness,  
-**D** He will ac**A**cept for the **D** Name that is **A** dear;  
-**D** Mornings of **A** joy give for **G** evenings of **D** tearfulness,  
-**G** Trust for our **D** trembling and **A** hope for our **D** fear.
+
+> These, though we bring them in trembling and fearfulness,  
+> He will accept for the Name that is dear;  
+> Mornings of joy give for evenings of tearfulness,  
+> Trust for our trembling and hope for our fear.
 
 ---
 
@@ -54,3 +61,6 @@
 ## Summary of Song
 
 This classic hymn by John S. B. Monsell beautifully calls believers to worship God in the beauty of holiness — with humble, obedient, and sincere hearts. It encourages us to bring our burdens, fears, and simple offerings to the Lord, trusting that He accepts them because of Christ. The song promises that God turns our sorrow into joy and our fear into confident hope. With its rich poetry and tender invitation, it is perfect for worship services, personal devotion, or any time we want to draw near to God with reverence and love.
+```
+
+You can copy the entire block above and save it as a `.md` file. Let me know if you want any changes or the next song!
