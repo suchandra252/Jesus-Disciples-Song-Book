@@ -3,7 +3,7 @@
 ## 🎧 Listen to the Song
 
 <div style="text-align:center;">
-<!-- Add YouTube embed here if you have the link -->
+<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=AHe_qmo3gX4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Copyright Information:** Horatio Spafford (Lyrics), Philip Paul Bliss (Music), Public Domain.
