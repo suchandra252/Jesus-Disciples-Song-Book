@@ -3,7 +3,7 @@
 ## 🎧 Listen to the Song
 
 <div style="text-align:center;">
-<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=AHe_qmo3gX4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/AHe_qmo3gX4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Copyright Information:** Horatio Spafford (Lyrics), Philip Paul Bliss (Music), Public Domain.
@@ -39,22 +39,16 @@
 > Is nailed to the cross, and I bear it no more  
 > Praise the Lord, praise the Lord, O my soul!
 
-### Chorus (Repeat)
-
-> It is well (it is well)  
-> With my soul (with my soul)  
-> It is well, it is well with my soul
-
 ---
 
 ## Song Meaning
 
 | Stanza | Meaning |
 |--------|---------|
-| **Verse 1**<br>When peace like a river, attendeth my way<br>When sorrows like sea billows roll<br>Whatever my lot, Thou hast taught me to say<br>It is well, it is well, with my soul | Even when life brings both peace and overwhelming sorrow, the believer has learned to declare “It is well with my soul” because of trust in God’s sovereignty. |
-| **Chorus**<br>It is well (it is well)<br>With my soul (with my soul)<br>It is well, it is well with my soul | A powerful, repeated affirmation of deep inner peace that comes from God, regardless of external circumstances. |
-| **Verse 2**<br>Though Satan should buffet, though trials should come<br>Let this blest assurance control<br>That Christ has regarded my helpless estate<br>And hath shed His own blood for my soul | In the midst of spiritual attacks and trials, the assurance of Christ’s atoning blood and care for us gives strength and peace. |
-| **Verse 3**<br>My sin, oh, the bliss of this glorious thought!<br>My sin, not in part but the whole<br>Is nailed to the cross, and I bear it no more<br>Praise the Lord, praise the Lord, O my soul! | The wonderful realization that all our sins — completely, not partially — have been forgiven and nailed to the cross brings immense joy and freedom. |
+| **Verse 1** | Despite changing circumstances — both peaceful and sorrowful — the believer learns to declare that their soul is well with God. |
+| **Chorus** | A repeated, powerful affirmation of inner peace that comes from trusting God completely. |
+| **Verse 2** | In the face of spiritual attack and trials, the assurance of Christ’s sacrificial death brings comfort and victory. |
+| **Verse 3** | The glorious truth that all sins (completely) are forgiven and nailed to the cross leads to joyful praise. |
 
 ---
 
