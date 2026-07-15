@@ -1,6 +1,3 @@
-**File Name:** `just-to-let-thy-father-do-what-he-will.md`
-
-```markdown
 # 🎵 Just to Let Thy Father Do What He Will
 
 ## 🎧 Listen to the Song
@@ -108,6 +105,3 @@ Discovering that what we surrender to God is transformed into blessing.
 ## Summary of Song
 
 This gentle and deeply spiritual hymn by Frances R. Havergal is a beautiful prayer of complete surrender to God. It teaches us to trust our Heavenly Father in every detail of life — big or small — knowing that He turns everything for our good. The song encourages moment-by-moment obedience, constant communion with God, and resting in His loving care. It is perfect for personal devotion, quiet times, or any season when we need to release control and trust God fully.
-```
-
-Copy the entire block above and save it as the suggested file name. Let me know if you want any adjustments!
