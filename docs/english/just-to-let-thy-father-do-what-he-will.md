@@ -13,13 +13,49 @@
 
 ## <span style="color:#1E90FF;">📝 Lyrics</span>
 
-> *“Just to let thy Father do what He will;*  
-> *Just to know that He is true, and be still.*  
-> *Just to follow hour by hour as He leadeth;*  
-> *Just to draw the moment’s power as it needeth.”*  
-> — Frances R. Havergal
+### <span style="color:#DAA520;">Verse 1</span>
+> Just to let Thy Father do what He will;  
+> Just to know that He is true, and be still.  
+> Just to follow hour by hour as He leadeth;  
+> Just to draw the moment’s power as it needeth.  
+> Just to trust Him, this is all,  
+> Then the day will surely be  
+> Peaceful whatsoe’er befall,  
+> Bright and blessed, calm and free.  
+> Just to let The Father do what He will - (2)  
 
-*(You can find the full, licensed lyrics in the video description or by searching for the hymn on Google).*
+### <span style="color:#DAA520;">Verse 2</span>
+> Just to let Him speak to thee, through His word  
+> Watching that His word may be clearly heard  
+> Just to tell Him everything, as it rises  
+> And at once to bring to Him all surprises  
+> Just to listen and to stay  
+> Where you cannot miss His voice  
+> This is all! And thus today  
+> You, communing shall rejoice  
+> Just to let The Father do what He will - (2)  
+
+### <span style="color:#DAA520;">Verse 3</span>
+> Just to trust, and yet to ask guidance still;  
+> Take the training or the task, as He will.  
+> Just to take the loss or gain, as He sends it;  
+> Just to take the joy or pain as He lends it.  
+> He who formed thee for His praise,  
+> Will not miss the gracious aim;  
+> So today and all thy days,  
+> Shall be moulded for the same.  
+> Just to let The Father do what He will - (2)  
+
+### <span style="color:#DAA520;">Verse 4</span>
+> Just to leave in His dear hand little things;  
+> All we cannot understand, all that stings.  
+> Just to let Him take the care, sorely pressing,  
+> Finding all we let Him bear, changed to blessing.  
+> This is all; and yet the way  
+> Marked by Him who loves thee best;  
+> Secret of a happy day.  
+> Secret of His promised rest.  
+> Just to let The Father do what He will - (2)  
 
 ---
 
@@ -37,50 +73,77 @@
   <tbody>
     <tr>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; white-space: pre-line; color:#333;">
-<strong>Verse 1</strong>
-Yielding to the Father's sovereign will, remaining still in His truth, and drawing strength moment by moment.
+<strong>Just to let Thy Father do what He will;
+Just to know that He is true, and be still.
+Just to follow hour by hour as He leadeth;
+Just to draw the moment’s power as it needeth.
+Just to trust Him, this is all,
+Then the day will surely be Peaceful whatsoe’er befall,
+Bright and blessed, calm and free.
+Just to let The Father do what He will - (2)</strong>
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-The believer finds complete tranquility by surrendering entirely to the Heavenly Father's perfect will. Resting quietly in His faithfulness, following His lead hour by hour, and simply trusting Him makes every day peaceful, calm, and free.
+Surrendering completely to God's sovereign will and resting peacefully in His absolute faithfulness. By following His gentle leading step by step every hour and receiving strength for every moment, we experience true peace, joy, and freedom no matter what happens throughout the day.
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-పరలోకపు తండ్రి చిత్తానికి మనల్ని మనం సంపూర్ణంగా సమర్పించుకోవడం, ఆయన నమ్మకత్వాన్ని ఎరిగి నిమ్మళంగా ఉండటం. ప్రతి గడియ ఆయన నడిపింపును అనుసరిస్తూ ఆయనను విశ్వసిస్తే, మన అనుదిన జీవితం నెమ్మదితో, సమాధానముతో నిండిపోతుంది.
+పరలోకపు తండ్రి చిత్తానికి మనల్ని మనం సంపూర్ణంగా అప్పగించుకోవడం, ఆయన నమ్మకత్వాన్ని ఎరిగి నిమ్మళంగా ఉండటం. ప్రతి గడియ ఆయన నడిపింపును అనుసరిస్తూ, అవసరమైన బలాన్ని పొందుకుంటూ ఆయనను విశ్వసిస్తే, ఏది ఎదురైనా మన దినమంతా ప్రశాంతంగా, ఆశీర్వాదకరంగా, సమాధానంతో గడుస్తుంది.
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; white-space: pre-line; color:#333;">
-<strong>Verse 2</strong>
-Listening intently to God's voice through His Word and bringing every circumstance to Him in communion.
+<strong>Just to let Him speak to thee, through His word
+Watching that His word may be clearly heard
+Just to tell Him everything, as it rises
+And at once to bring to Him all surprises
+Just to listen and to stay
+Where you cannot miss His voice
+This is all! And thus today
+You, communing shall rejoice
+Just to let The Father do what He will - (2)</strong>
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-Walking closely with the Lord requires paying clear attention to His Word and immediately sharing every thought, concern, and unexpected situation with Him. Staying in intimate communion brings constant rejoicing.
+Cultivating an attentive heart to hear God speak through the Scriptures, while sharing every thought, concern, and unexpected situation with Him in continuous prayer. Staying close to His presence and enjoying unbroken communion fills the believer with deep, lasting joy.
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-దేవుని వాక్యము ద్వారా ఆయన స్వరాన్ని శ్రద్ధగా వినడం, జీవితంలో ఎదురయ్యే ప్రతి ఆశ్చర్యకరమైన సంగతిని, ప్రతి చిన్న విషయాన్ని వెంటనే ఆయనకు తెలియజేయడం. ఆయన సన్నిధిలో నివసించడం వల్ల అంతరంగంలో నిజమైన ఆనందం కలుగుతుంది.
+దేవుని వాక్యం ద్వారా ఆయన స్వరాన్ని శ్రద్ధగా వినడం, జీవితంలో ఎదురయ్యే ప్రతి చిన్న విషయాన్ని, ఆకస్మిక పరిస్థితులను వెంటనే ప్రార్థనలో ఆయనకు తెలియజేయడం. ఆయన స్వరాన్ని స్పష్టంగా వినేంత సన్నిహితంగా జీవిస్తూ, ఆయనతో సహవాసం చేయడం ద్వారా మన హృదయం ఆనందంతో నిండిపోతుంది.
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; white-space: pre-line; color:#333;">
-<strong>Verse 3</strong>
-Accepting training, tasks, loss, or gain as given by God, who lovingly moulds us for His praise.
+<strong>Just to trust, and yet to ask guidance still;
+Take the training or the task, as He will.
+Just to take the loss or gain, as He sends it;
+Just to take the joy or pain as He lends it.
+He who formed thee for His praise,
+Will not miss the gracious aim;
+So today and all thy days,
+Shall be moulded for the same.
+Just to let The Father do what He will - (2)</strong>
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-Whether God brings joy or sorrow, gain or loss, the yielded heart accepts each as divine training. Knowing that God formed us for His glory, we trust that all our days are purposefully shaped to fulfill His gracious intention.
+Continuing to seek His divine direction while gratefully accepting all circumstances—whether loss or gain, joy or suffering—as His loving spiritual discipline. Since God created us for His glory, He guarantees that every single day is shaping us toward that wonderful eternal goal.
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-లాభమైనా, నష్టమైనా, సంతోషమైనా, శ్రమయైనా దేవుడు నియమించిన శిక్షణగా స్వీకరించడం. తనను మహిమపరచడానికే మనలను సృష్టించిన దేవుడు తన కృపగల ఉద్దేశాన్ని ఎన్నడూ విడిచిపెట్టడు; మన జీవిత దినములన్నీ ఆ లక్ష్యం కొరకే మలచబడుతున్నాయి.
+ఆయన నడిపింపును కోరుతూ, జీవితంలో వచ్చే లాభనష్టాలను, సుఖదుఃఖాలను దేవుని శిక్షణగా స్వీకరించడం. తనను స్తుతించడానికే మనల్ని సృష్టించిన దేవుడు తన ఉద్దేశాన్ని ఎన్నడూ మరువడు; మన జీవిత దినములన్నీ ఆయన మహిమ కొరకే శ్రద్ధగా మలచబడుతున్నాయి.
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; white-space: pre-line; color:#333;">
-<strong>Verse 4</strong>
-Leaving little things and heavy burdens in His tender care, unlocking the secret of peace and rest.
+<strong>Just to leave in His dear hand little things;
+All we cannot understand, all that stings.
+Just to let Him take the care, sorely pressing,
+Finding all we let Him bear, changed to blessing.
+This is all; and yet the way
+Marked by Him who loves thee best;
+Secret of a happy day.
+Secret of His promised rest.
+Just to let The Father do what He will - (2)</strong>
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-Placing all confusing matters, hurtful experiences, and pressing burdens into the Lord's gentle hands turns every heavy load into a blessing. This simple, childlike trust is the true secret of a happy life and His promised spiritual rest.
+Entrusting every confusing detail, painful wound, and heavy anxiety into the Lord's caring hands. When we release our burdens to Him, He turns them into spiritual blessings, revealing the true secret of daily happiness and His promised supernatural rest.
       </td>
       <td style="border: 1px solid #ccc; padding: 12px; vertical-align: top; color:#333;">
-మనకు అర్థం కానివి, మనసును గాయపరిచే విషయాలు, భారమైన చింతలన్నింటినీ ఆయన దయగల హస్తాలకు అప్పగించడం. మనం ఆయనపై మోపిన ప్రతి భారాన్ని ఆయన ఆశీర్వాదంగా మారుస్తాడు; ఇదే నిజమైన ఆనందానికి, దేవుని విశ్రాంతికి అసలైన రహస్యం.
+మనకు అర్థం కానివి, మనసుకు బాధ కలిగించే ప్రతి చిన్న విషయాన్ని, భారమైన చింతలన్నింటినీ ఆయన దయగల హస్తాలకు అప్పగించడం. మనం ఆయనపై మోపిన ప్రతి భారాన్ని ఆయన దీవెనగా మారుస్తాడు; ఇదే అనుదిన సంతోషానికి, దేవుని వాగ్దాన విశ్రాంతికి నిజమైన ఆత్మీయ రహస్యం.
       </td>
     </tr>
   </tbody>
@@ -91,4 +154,4 @@ Placing all confusing matters, hurtful experiences, and pressing burdens into th
 
 ## <span style="color:#8B0000;">🌟 Summary of Song</span>
 
-Written by Frances Ridley Havergal, *Just to Let Thy Father Do What He Will* is a comforting hymn about childlike trust, full surrender, and inward rest in God's sovereign care. It calls believers to stop striving and worrying, inviting them instead to listen to His Word, yield to His shaping hand through both pain and joy, and entrust every small care to the Father who transforms burdens into blessings.
+*Just to Let Thy Father Do What He Will* is a timeless hymn written by Frances Ridley Havergal that unfolds the peace found in total, childlike surrender to God. Rather than striving or carrying heavy burdens alone, the believer is invited to listen to the Father's voice, trust His guiding hand through joy and trial, and release every care to Him—discovering that yielding fully to God's will is the true secret of a blessed life and promised rest.
